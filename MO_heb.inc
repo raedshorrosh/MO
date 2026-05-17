@@ -777,7 +777,3 @@
 </body>
 </html>
 [[/iframe]]
-
-<div style="display:none;">
-    <p>[[input:ans1]] [[validation:ans1]]</p>
-</div>
